@@ -1,0 +1,13 @@
+body {
+  font-family: arial;
+}
+
+h1 {
+  font-style: italic;
+  color: orange;
+  
+}
+
+strong {
+  font-size: 45px;
+}
